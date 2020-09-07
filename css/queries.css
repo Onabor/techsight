@@ -1,0 +1,131 @@
+@media only screen and (max-width: 480px), only screen and (max-device-width: 480px) {
+.lol1 li {
+   
+    margin: 5px;
+    font-size: 12px;
+}
+p {
+    font-size: 12px;
+}
+h1 {
+    font-size: 30px;
+}
+
+.img2 {
+    width: 447px;
+    float: left;
+    top: 267px;
+    position: relative;
+    padding-left: 40px;
+}
+.di2 {
+    margin-bottom:100px;
+    position: relative;
+    top: -292px;
+    padding: 104px;
+}
+.but1 {
+    padding: 18px 103px;
+    background-color: gray;
+    margin: 5px;
+    margin-bottom: 13px;
+}
+.ba1 {
+    text-decoration: none;
+    color: white;
+    font-size: 15px;
+}
+.but1a {
+    padding: 15px 71px;
+    background-color: black;
+    margin-left: 8px;
+    margin-right: -7px;
+} 
+.ba1 {
+    text-decoration: none;
+    color: white;
+    font-size: 15px;
+}
+h5 {
+    font-size: 15px;
+}
+h3 {
+    font-size: 20px;
+    text-align: center;
+}
+.dd_cont {
+    display: block;
+    
+    margin: 0px 69px;
+}
+.p_cont {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+
+.h1_cont {
+    font-size: 32px;
+    position: relative;
+    top: -20px;
+    color: white;
+    padding-left: 20px;
+}
+.d_wa {
+    display: block;
+    /* justify-content: space-around; */
+    padding-bottom: 90px;
+    margin: 105px;
+}.wra_cont {
+    display: block;
+    /* justify-content: space-around; */
+    /* margin-bottom: 75px; */
+    margin: 110px;
+}
+.d_cont {
+    width: 250px;
+    padding-top: 28px;
+}
+
+
+
+}
+
+
+
+
+
+@media only screen and (max-width: 768px), only screen and (max-device-width: 768px) {
+
+
+.p_cont {
+    border: 2px solid gray;
+    max-width: 350px;
+    max-height: 200px;
+    background-color: gray;
+    margin-left: 6px;
+    margin-right: -2px;
+    
+}
+h1 {
+    font-size: 37x;
+}
+p {
+    font-size: 12px;
+}
+.img2 {
+    width: 320px;
+    padding-top: 60px;
+    position: relative;
+}
+.di2 {
+    margin-bottom: 78px;
+}
+.dd_cont {
+
+
+    margin-bottom: 100px;
+}
+
+
+}

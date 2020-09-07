@@ -1,0 +1,306 @@
+
+body{
+	font-family: 'Open Sans', sans-serif;
+}
+header{
+background-color: gray;
+}
+.img1 {
+    width: 46px;
+    padding: 20px 16px;
+}
+label {
+    position: absolute;
+    padding: 32px;
+    margin: 0px 27px;
+}
+.lol1 li {
+    display: inline;
+    float: right;
+    margin: 8px;
+    top: -79px;
+    position: relative;
+}
+h1{
+    font-size: 39px;
+}
+p {
+    font-size: 15px;
+}
+.img2 {
+    width: 494px;
+    float: right;
+    top: -255px;
+    position: relative;
+}
+.but1 {
+    padding: 15px 55px;
+    background-color: gray;
+}
+.ba1 {
+    text-decoration: none;
+    color: white;
+    font-size: 15px;
+}
+.di2 {
+    margin-bottom: 200px;
+}
+.but1 {
+    padding: 15px 55px;
+    background-color: gray;
+}
+.ba1 {
+    text-decoration: none;
+    color: white;
+    font-size: 15px;
+}
+
+.but1a {
+    padding: 15px 46px;
+    background-color: black;
+    margin-left: 8px;
+}
+h3 {
+    font-size: 25px;
+    text-align: center;
+}
+.p_cont {
+    border: 2px solid gray;
+    max-width: 350px;
+    max-height: 200px;
+    background-color: gray;
+}
+.img_cont {
+    width: 130px;
+    position: relative;
+    float: right;
+    top: -32px;
+    margin-right: -32px;
+}
+.dd_cont {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 100px;
+}
+.h_cont {
+    padding-left: 20px;
+    color: pink;
+    font-size: 15px;
+}
+.hh_cont {
+    padding-left: 20px;
+    top: -18px;
+    position: relative;
+    color: white;
+}
+
+.pp_cont {
+    font-size: 15px;
+    padding-left: 20px;
+    position: relative;
+    top: -22px;
+    color: white;
+}
+.h1_cont {
+    font-size: 38px;
+    position: relative;
+    top: -20px;
+    color: white;
+}
+.d_wa {
+    display: flex;
+    justify-content: space-around;
+    padding-bottom: 90px;
+}
+
+.d_cont {
+    width: 250px;
+}
+.wra_cont {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 75px;
+}
+h5 {
+    font-size: 20px;
+}
+h1.hwa {
+    text-align: center;
+}
+.lin_cont {
+    text-decoration: none;
+    padding: 22px 0px;
+}
+.dca {
+    display: flex;
+    justify-content: space-around;
+    padding-top: 40px;
+}
+.lest li {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+i.fa.fa-twitter {
+    margin: 8px;
+}
+i.fa.fa-instagram {
+    margin: 8px;
+}
+
+i.fa.fa-facebook-square {
+    margin: 8px;
+}
+.sew1 {
+    padding-top: 10px;
+}
+
+footer{
+	background-color: gray;
+}
+.pgs{
+	text-align: center;
+	color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
