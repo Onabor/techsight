@@ -36,7 +36,7 @@ h1 {
     font-size: 15px;
 }
 .but1a {
-    padding: 15px 71px;
+    padding: 25px 103px;
     background-color: black;
     margin-left: 8px;
     margin-right: -7px;
@@ -85,6 +85,18 @@ h3 {
 .d_cont {
     width: 250px;
     padding-top: 28px;
+}
+
+
+
+.form_div6 {
+    padding: 10px 240px;
+}
+.form_div5 {
+    padding: 10px 264px;
+}
+.img_course1 {
+    width: 250px;
 }
 
 
